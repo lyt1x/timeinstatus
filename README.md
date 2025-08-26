@@ -1,2 +1,2 @@
 # timeinstatus
-Puts your current time in your discord status
+  This was actually my first github repository back in 2021 but I deleted it. This doesn't work anymore btw
